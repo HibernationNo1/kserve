@@ -1,0 +1,1 @@
+torchserve --start --model-store gs/model-store --models pipeline=archive/pipeline.mar --ts-config gs/config/config.properties

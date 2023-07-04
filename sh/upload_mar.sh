@@ -1,0 +1,1 @@
+gsutil cp -r gs gs://model_storage_hibernation/torchserve

@@ -1,0 +1,1 @@
+gsutil cp -r gs://model_storage_hibernation/models/pipeline.pth ./archrive/pipeline.pth 
