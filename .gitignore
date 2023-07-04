@@ -1,0 +1,6 @@
+*.mar
+*.jpg
+*.pth
+
+/logs
+tmp.py
