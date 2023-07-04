@@ -3,4 +3,5 @@
 *.pth
 
 /logs
+/archrive/extra/sub_module
 tmp.py
